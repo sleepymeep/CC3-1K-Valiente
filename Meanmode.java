@@ -47,3 +47,14 @@ public class Meanmode {
 
     }
 }
+
+
+Output:
+Enter data set:
+4
+2
+14
+6
+4
+The Mean is: 6
+The Mode is: 2
