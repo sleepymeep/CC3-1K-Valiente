@@ -1,1 +1,1 @@
-# CC3-1K-Valiente,Taberdo
+# CC3-1K-Valiente
